@@ -7,31 +7,31 @@ ops library API reference
    :caption: Contents:
 
 ops module
-==========
+----------
 
 .. automodule:: ops
 
 
-main
------------
+### main
+
 
 .. automodule:: ops.main
 
 
 ops.pebble module
-=================
+-----------------
 
 .. automodule:: ops.pebble
 
 
 ops.testing module
-==================
+------------------
 
 .. automodule:: ops.testing
 
 
 Indices
-=======
+-------
 
 * :ref:`genindex`
 * :ref:`modindex`
